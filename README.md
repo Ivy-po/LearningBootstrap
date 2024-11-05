@@ -38,6 +38,27 @@ The 3rd page should look like the mockup below:
 For help with adding the 3rd page check out this **[video](https://youtu.be/X0gyLcTT7Bo)**. The video covers about 90% of the task requirements.
 
 
-## Task 3 - Navbar, Carousel and other advanced bootstrap features.
+## Task 3 - Navbar
 
-Follow along in class to use the bootstrap documentation at www.getbootstrap.com. Most of what we do will be a copy and paste, but then you need to update the code to link to your specific pages/images.
+Setting Up for a Bootstrap Navbar - 
+https://youtu.be/awB3mzsSqgM
+
+Adding the Navbar -
+https://youtu.be/P4x8aujxc3Q
+
+Follow along with the videos and use the bootstrap documentation at https://www.getbootstrap.com. Most of what we do will be a copy and paste, but then you need to update the code to link to your specific pages. 
+
+The video will walk you through a navbar on one page. Your job will then be to copy that navbar code to all of your pages in order to create consistent navigation for your users.
+
+## Task 4 - Carousel
+
+Today we will add an image carousel to our practice bootstrap website.
+
+First, watch the video https://youtu.be/oQIN3wZNXOM and follow along to replace the bear image on the home page (`index.html`) with a carousel.
+
+Next, find at least 3 dog images of the same size, download and save them in the `/img` folder of your repository. Be sure to name them with simple names. For help finding images that are the same size watch: https://youtu.be/nTjb_UQa8G8. All image files should end with `.jpg`, `.png` or `.gif` file extensions.
+
+Repeat the process from the first video to change the dog image on `page3.html` into a carousel with at least 3 dog images. If your carousel will not advance, double-check that you added the optional Javascript tag at the bottom of the document (just before the closing body tag). 
+
+    `<!-- Optional JavaScript -->`
+    `<script src="js/bootstrap.bundle.js"></script>`
